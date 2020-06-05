@@ -1,5 +1,5 @@
 # Introduction 
-Bulk add A records to AWS Route 53 DNS
+Bulk add A records to AWS Route 53 DNS using a CSV file
 ---
 # Requirements
 * Python installed either using Python, PyCharm or VSCode or some other method of executing Python code
